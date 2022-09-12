@@ -1,4 +1,4 @@
-package com.javarush.games.snake;
+package pl.jiohim.games.snake;
 
 import java.util.ArrayList;
 import java.util.List;
